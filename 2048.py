@@ -1,5 +1,5 @@
 raw_board = [input().split(' ') for i in range(4)]
-board = [list(map(lambda x: int(x), row)) for row in raw_board]
+board = [list(map(int, row)) for row in raw_board]
 
 direction = input()
 
@@ -45,4 +45,4 @@ if direction == '3':  # Moved down
             board[i][cell] = value
 
 for row in board:
-    print(' '.join(map(lambda x: str(x), row)))
+    print(' '.join(map(str, row)))
