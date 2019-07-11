@@ -4,4 +4,5 @@
 - [2048](https://open.kattis.com/problems/2048)
 - [AlphabetSpam](https://open.kattis.com/problems/alphabetspam)
 - [CD](https://open.kattis.com/problems/cd)
+- [Coast Length](https://open.kattis.com/problems/coast)
 - [EightQueens](https://open.kattis.com/problems/8queens)
