@@ -2,6 +2,7 @@
 
 ## Problems
 - [2048](https://open.kattis.com/problems/2048)
+- [4thought](https://open.kattis.com/problems/4thought)
 - [AlphabetSpam](https://open.kattis.com/problems/alphabetspam)
 - [CD](https://open.kattis.com/problems/cd)
 - [Coast Length](https://open.kattis.com/problems/coast)
