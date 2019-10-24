@@ -2,7 +2,7 @@ import sys
 import math
 from collections import namedtuple
 
-sys.setrecursionlimit(2000000000)
+sys.setrecursionlimit(2000000)
 
 def read_input():
     return sys.stdin.readline().replace('\n','')
@@ -42,7 +42,7 @@ def check_move(move):
     x1, y1 = move[0]  # Start
     x2, y2 = move[1]  # Finish
 
-    person, repr_person = get_type_of_person(x2, y2)
+    person, repr_person = get_type_of_person(x1, y1)
 
     visited = set()
 
