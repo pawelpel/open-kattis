@@ -9,4 +9,7 @@
 - [Coast Length](https://open.kattis.com/problems/coast)
 - [EightQueens](https://open.kattis.com/problems/8queens)
 
-`_s` in name means that solution solves the problem but is too slow - TimeLimitExceeded. In other words, solution needs an optimization.  
+
+--
+
+`_s` in script name means that solution solves the problem but is too slow - TimeLimitExceeded. In other words, solution needs an optimization.  
