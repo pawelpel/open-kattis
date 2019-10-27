@@ -10,6 +10,6 @@
 - [EightQueens](https://open.kattis.com/problems/8queens)
 
 
---
+***
 
 `_s` in script name means that solution solves the problem but is too slow - TimeLimitExceeded. In other words, solution needs an optimization.  

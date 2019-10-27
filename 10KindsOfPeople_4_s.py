@@ -1,22 +1,16 @@
-import sys
 from collections import deque
 
-def read_input():
-    return sys.stdin.readline().replace('\n','')
+read_input = input
 
-def input_to_int_tuple(separator=' '):
-    return tuple(map(int, read_input().split(separator)))
+def input_to_int():
+    return map(int, read_input().split())
 
-board_x, board_y = input_to_int_tuple()
+board_x, board_y = input_to_int()
+board = [read_input() for x in range(board_x)]
 
-board = []
-for x in range(board_x):
-    board.append(list(read_input()))
-
-number_of_moves = int(read_input())
 moves = []
-for n in range(number_of_moves):
-    x1, y1, x2, y2 = input_to_int_tuple()
+for n in range(int(read_input())):
+    x1, y1, x2, y2 = input_to_int()
     moves.append(((x1-1, y1-1), (x2-1, y2-1)))
 
 def get_type_of_person(x, y):
