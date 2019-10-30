@@ -5,6 +5,7 @@
 - [2048](https://open.kattis.com/problems/2048)
 - [4thought](https://open.kattis.com/problems/4thought)
 - [AlphabetSpam](https://open.kattis.com/problems/alphabetspam)
+- [Bank Queue](https://open.kattis.com/problems/bank)
 - [CD](https://open.kattis.com/problems/cd)
 - [Coast Length](https://open.kattis.com/problems/coast)
 - [EightQueens](https://open.kattis.com/problems/8queens)
