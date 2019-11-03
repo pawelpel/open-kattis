@@ -9,5 +9,6 @@
 - [CD](https://open.kattis.com/problems/cd)
 - [Coast Length](https://open.kattis.com/problems/coast)
 - [EightQueens](https://open.kattis.com/problems/8queens)
+- [InverseFactorial](https://open.kattis.com/problems/inversefactorial)
 - [PhoneList](https://open.kattis.com/problems/phonelist)  
  
